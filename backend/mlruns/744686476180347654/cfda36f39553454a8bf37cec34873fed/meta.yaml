@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/InternshipPractical/FastAPIFinal/backend/mlruns/744686476180347654/cfda36f39553454a8bf37cec34873fed/artifacts
+end_time: 1724677173862
+entry_point_name: ''
+experiment_id: '744686476180347654'
+lifecycle_stage: active
+run_id: cfda36f39553454a8bf37cec34873fed
+run_name: fearless-quail-130
+run_uuid: cfda36f39553454a8bf37cec34873fed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724677169937
+status: 3
+tags: []
+user_id: nikki
