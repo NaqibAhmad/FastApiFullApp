@@ -11,7 +11,7 @@ from app.models import PredictInputData
 
 router = APIRouter()
 
-model_uri = "D:/full-stack-fastapi-template-master/backend/mlruns/744686476180347654/cfda36f39553454a8bf37cec34873fed/artifacts/CreditScore_Final"
+model_uri = "mlruns/744686476180347654/cfda36f39553454a8bf37cec34873fed/artifacts/CreditScore_Final"
 model = mlflow.pyfunc.load_model(model_uri)
 
 # @router.post("/predict", response_model=InputData)

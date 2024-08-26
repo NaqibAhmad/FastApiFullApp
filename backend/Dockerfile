@@ -24,6 +24,8 @@ COPY ./alembic.ini /app/
 
 COPY ./prestart.sh /app/
 
+COPY ./mlruns /mlruns
+
 COPY ./tests-start.sh /app/
 
 COPY ./app /app/app
